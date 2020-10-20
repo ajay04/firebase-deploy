@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "target": "git-action", 
+    "public": "dist\\ang-firebase-img",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

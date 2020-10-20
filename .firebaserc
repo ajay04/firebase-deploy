@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "fir-ed929"
+  },
+  "targets": {
+    "fir-ed929": {
+      "hosting": {
+        "git-action": [
+          "git-action"
+        ]
+      }
+    }
+  }
+}
