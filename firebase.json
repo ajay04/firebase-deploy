@@ -1,7 +1,7 @@
 {
   "hosting": {
     "target": "git-action", 
-    "public": "dist\\ang-firebase-img",
+    "public": "dist/ang-firebase-img",
     "ignore": [
       "firebase.json",
       "**/.*",
